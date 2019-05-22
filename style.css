@@ -1,14 +1,10 @@
 
-h1 {
-    text-align: left;
-}
-
 table {
     font-family: sans-serif;
     text-align: center;
     border-collapse: separate;
     border-spacing: 5px;
-    background: yellowgreen;
+    background: whitesmoke;
     color: dimgrey;
     border: 16px solid mediumseagreen;
     border-radius: 20px;

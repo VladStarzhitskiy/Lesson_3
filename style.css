@@ -13,6 +13,7 @@ table {
 th {
     font-size: 25px;
     padding: 10px;
+    border-radius: 50px;
 }
 
 td {

@@ -21,3 +21,8 @@ td {
     padding: 10px;
 }
 
+body {
+    background-image: url('Foto/FotoP.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
